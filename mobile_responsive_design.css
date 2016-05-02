@@ -1,0 +1,1620 @@
+﻿.blog-heading_title-n-avia
+{
+
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 22px;
+    color: #1a478f;
+    background: #f5f5f5;
+    padding: 15px 0 15px 23px;
+    margin-top: 0;
+    display: none;
+}
+
+@media screen and (max-width: 1245px) {
+    div#jivo-iframe-container.jivo-iframe-container-bottom {
+        right: 0px !important;
+    }
+    .callback-modal.bottom {
+        left: 0px;
+    }
+}
+
+@media screen and (max-width: 1210px) {
+    body {
+        min-width: inherit;
+    }
+}
+
+@media screen and (max-width: 1022px) {
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal, .jcarousel-skin-tango1 .jcarousel-clip-horizontal, .jcarousel-skin-tango1 .jcarousel-container-horizontal {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .main {
+        width: auto;
+    }
+    #parnters-plus-news {
+        width: 500px !important;
+        display: inline-block;
+    }
+    .box > .content > img {
+        width: 100%;
+    }
+    .advantage-header {
+        display: block !important;
+    }
+    a.tickets-a1 {
+        width: 48.723456% !important;
+    }
+    a.tickets-a2 {
+        width: 48.723456% !important;
+    }
+    .jcarousel-skin-tango .jcarousel-container-horizontal {
+        display: inline-block !important;
+        width: auto;
+        padding: 0px 40px 0px 22px;
+        margin-left: 0px;
+    }
+    .spec1 {
+        margin: 0px;
+    }
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 835px;
+        height: 105px;
+    }
+    .top-menu#footer-top-menu {
+        width: 100%;
+    }
+    .advantage-block {
+        width: auto;
+    }
+    .advantage-element {
+        min-width: 0px;
+        padding-left: 10px;
+    }
+    .advantage-text {
+        margin-left: 70px;
+    }
+    div.main>div.callback-modal {
+        left: 10px;
+    }
+    div.main>div.callback-modal>div.callback-modal-big-triangle,
+    div.main>div.callback-modal>div.callback-modal-small-triangle {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 966px) {
+    div#jd-zakaz > form#jd-form > div > input.jd-submit {
+        display: inline-block !important;
+        position: static !important;
+        float: none !important;
+        margin-left: 15px !important;
+        margin-top: 15px !important;
+    }
+    div#jd-zakaz > form#jd-form > div {
+        position: static !important;
+        float: none !important;
+        height: auto !important;
+        width: auto !important;
+        display: block !important;
+    }
+    div#jd-zakaz > form#jd-form >div.attributs {
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+        float: none !important;
+        height: 75px !important;
+        width: 100% !important;
+        margin-top: 15px !important;
+        /*background: lightpink;*/
+    }
+    div#jd-zakaz > form#jd-form >div.attributs> div {
+        margin: 0px !important;
+        padding: 0px !important;
+        display: inline-block !important;
+        /*float: none !important;*/
+        
+        height: auto !important;
+        width: auto !important;
+        margin-left: 15px !important;
+    }
+    div#jd-zakaz > form#jd-form >div.attributs> div.DepartureDate,
+    div#jd-zakaz > form#jd-form >div.attributs> div.TimeIntervalString {
+        width: 160px !important;
+    }
+    div.content>div.blog-content>div#jd-zakaz,
+    div.content>div.blog-content>div#jd-zakaz > form#jd-form {
+        margin: 0px !important;
+        padding: 0px !important;
+        float: none !important;
+        width: auto !important;
+        height: auto !important;
+        display: block !important;
+        /*background: pink;*/
+    }
+    div.content>div.blog-content>div#jd-zakaz > form#jd-form {
+        padding-bottom: 20px !important;
+        /*background: pink;*/
+    }
+    div.punkts {
+        display: block;
+        padding: 0px !important;
+        margin: 0px !important;
+        float: none !important;
+    }
+    div.punkts,
+    div.punkts> div {
+        padding: 0px !important;
+        margin: 0px !important;
+        float: none !important;
+    }
+    div.punkts> div {
+        display: inline-block;
+        width: 45% !important;
+        margin-left: 15px !important;
+    }
+}
+
+@media screen and (max-width: 965px) {
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal, .jcarousel-skin-tango1 .jcarousel-clip-horizontal, .jcarousel-skin-tango1 .jcarousel-container-horizontal {
+        width: 600px;
+    }
+    div.blog-content>form#formget>div.tickets>a.buy {
+        bottom: 10px;
+    }
+    .question1,
+    .question2,
+    .question3,
+    .question4,
+    .question5 {
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .question1 {
+        margin-right: 30px;
+    }
+    .menu > ul > li {
+        width: 16.6% !important;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    html > body > div.main > div.content > div.form-bg > form#formget > div.tickets {
+        height: auto !important;
+        position: static !important;
+    }
+}
+
+@media screen and (max-width: 946px) {
+    .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        width: 250px !important;
+    }
+    .content > .wrapper> a.button-blog-new,
+    .content > .wrapper> a.button1-blog-new,
+    .content > .wrapper> div {
+        margin-right: 20px;
+    }
+    .content > .wrapper> a.button-blog-new,
+    .content > .wrapper> a.button1-blog-new {
+        padding: 17px 0px;
+    }
+}
+
+@media screen and (max-width: 941px) {
+    div.blog-content>form#formget>div.tickets {
+        height: 275px;
+    }
+}
+
+@media screen and (max-width: 936px) {
+    div.tickets > div.question1, div.tickets>div.question2, div.tickets>div.question3, div.tickets>div.question4, div.tickets>div.question5 {
+        margin-right: 10px;
+    }
+    div.tickets > div.question1,
+    div.tickets>div.question2 {
+        width: 32.123456%;
+        /*background: pink;*/
+    }
+    div.tickets > div.question1 > input#origin-city-code,
+    div.tickets > div.question1 > input#origin-city-code2,
+    div.tickets > div.question1 > input#origin-port-code2,
+    div.tickets > div.question1 > input#destination-city-code,
+    div.tickets > div.question1 > input#destination-city-code2,
+    div.tickets > div.question1 > input#destination-port-code2 {
+        width: 96.423456789%;
+    }
+    div.tickets > div.question2 > div.styled-select {
+        width: 99.423456789%;
+    }
+    div.tickets > div.question2 > div.styled-select > select {
+        width: 107.423456789%;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/select.png) 90.423456789% center no-repeat;
+    }
+    div.tickets>div.question3,
+    div.tickets>div.question4 {
+        width: 24.6123456789%;
+        text-align: center;
+    }
+    div.tickets>div.question3 {
+        width: 22.6123456789%;
+    }
+    div.tickets>div.question4>div.question4-name {
+        width: auto;
+    }
+    div.tickets > a.buy {
+        right: 15px;
+        bottom: 25px;
+    }
+    div.tickets > a.buy:hover {
+        right: 15px;
+        bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 926px) {
+    .question1 {
+        margin-right: 10px;
+    }
+    .question3 {
+        float: left;
+        margin: 0 10px 19px 0;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    .menu > ul > li > a {
+        font-size: inherit;
+    }
+    .jcarousel-skin-tango .jcarousel-container-horizontal {
+        padding: 0px 35px 0px 22px;
+    }
+    .jcarousel-skin-tango .jcarousel-item {
+        width: 230px;
+    }
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 780px;
+    }
+}
+
+@media screen and (max-width: 910px) {
+    div.tickets>div.question3, div.tickets>div.question4 {
+        width: 25.6123456789%;
+        text-align: center;
+    }
+    div.tickets>div.question3 {
+        width: 22.3123456789%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    div.tickets>div.question3, div.tickets>div.question4 {
+        margin-right: 0px;
+        text-align: left;
+    }
+    div.tickets>div.question3 {
+        width: 23.6123456789%;
+    }
+    div.tickets>div.question4 {
+        width: 26.2923456789%;
+    }
+}
+
+@media screen and (max-width: 886px) {
+    .question1 {
+        margin-right: 5px;
+    }
+    .question1 input {
+        width: 240px;
+    }
+    .advantage-block {
+        display: block;
+    }
+    a.tickets-a1,
+    a.tickets-a2 {
+        width: 47.723456% !important;
+    }
+}
+
+@media screen and (max-width: 865px) {
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal, .jcarousel-skin-tango1 .jcarousel-clip-horizontal, .jcarousel-skin-tango1 .jcarousel-container-horizontal {
+        width: 550px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    div.tickets > div.question1, div.tickets>div.question2 {
+        width: 31.123456%;
+    }
+    div.tickets>div.question3,
+    div.tickets>div.question4 {
+        text-align: right;
+    }
+    div.tickets>div.question3 {
+        width: 40.123456%;
+    }
+    div.tickets>div.question4 {
+        width: 40.123456%;
+    }
+    div.tickets>div.question5 {
+        float: none;
+        width: 34.023456%;
+        display: inline-block;
+        margin-bottom: 25px;
+        /*text-align: right;*/
+        
+        padding: 0px;
+    }
+    div.tickets>div.question5>.question5-name,
+    div.tickets>div.question5>.question5-name>span,
+    div.tickets>div.question5>.question5-name>input {
+        padding: 0px;
+        margin: 0px;
+    }
+    div.tickets>div.question5>.booking-checkbox {
+        width: 27px;
+    }
+    div.tickets {
+        height: auto !important;
+    }
+    .tickets > a.buy {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 856px) {
+    .question1 input {
+        width: 230px;
+    }
+    .question3 {
+        margin: 0px 5px 19px 0px;
+    }
+    .question4 {
+        margin: 6px 5px 19px 0;
+    }
+    #parnters-plus-news {
+        width: 450px !important;
+    }
+}
+
+@media screen and (max-width: 852px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 680px;
+    }
+    .jcarousel-skin-tango .jcarousel-item,
+    .spec1,
+    .spec-price {
+        width: 224px;
+    }
+    .jcarousel-skin-tango .jcarousel-item-horizontal {
+        margin: 0px 5px;
+    }
+    .spec-name {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .item-296.item1 {
+        margin-top: 10px;
+    }
+    /*html > body > div.content > div.blog-content > div#jd-zakaz > form#jd-form > div.attributs > 
+    div.DepartureDate
+    div.TimeIntervalString
+    div.AdultQuantity
+    div.ChildQuantity
+    div.BabyQuantity
+    */
+    
+    div.content>div.blog-content>div#jd-zakaz {
+        background: #2381e5;
+        /* Old browsers */
+        
+        background: -moz-linear-gradient(top, #2381e5 1%, #2066bc 100%);
+        /* FF3.6-15 */
+        
+        background: -webkit-linear-gradient(top, #2381e5 1%, #2066bc 100%);
+        /* Chrome10-25,Safari5.1-6 */
+        
+        background: linear-gradient(to bottom, #2381e5 1%, #2066bc 100%);
+        /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#2381e5', endColorstr='#2066bc', GradientType=0);
+        /* IE6-9 */
+        
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    div#jd-zakaz > form#jd-form > div.punkts > div > input {
+        padding: 10px 0px;
+        padding-left: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        border: 1px solid gray;
+        background: white;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.DepartureDate,
+    div#jd-zakaz > form#jd-form > div.attributs > div.TimeIntervalString {
+        width: 45.123456789% !important;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.DepartureDate > input,
+    div#jd-zakaz > form#jd-form > div.attributs > div.TimeIntervalString > input {
+        padding: 10px 0px;
+        padding-left: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        border: 1px solid gray;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.DepartureDate > input {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/calendar.jpg) 95.123456789% 15px no-repeat, white;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.TimeIntervalString > input {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/clock.jpg) 95.123456789% 15px no-repeat, white;
+    }
+    div#time-pickerTimeIntervalString > div#pickerselecttime > .styled-select1 > select {
+        background: none;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.AdultQuantity,
+    div#jd-zakaz > form#jd-form > div.attributs > div.ChildQuantity,
+    div#jd-zakaz > form#jd-form > div.attributs > div.BabyQuantity {
+        width: 30.123456789% !important;
+        margin-top: 10px !important;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .question5 {
+        margin-right: 0px;
+    }
+    .tickets a.buy {
+        width: 200px;
+    }
+    .question1 input {
+        width: 200px;
+    }
+    .styled-select1 {
+        width: 47px;
+        overflow: hidden;
+    }
+    .styled-select1 select {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/select.png) 25px center no-repeat;
+        width: 65px;
+        padding-left: 5px;
+    }
+}
+
+@media screen and (max-width: 836px) {
+    .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
+        width: 225px !important;
+    }
+    .content > .wrapper> a.button-blog-new,
+    .content > .wrapper> a.button1-blog-new {
+        margin-right: 20px;
+        border-radius: 7px;
+        background: #4584CB;
+    }
+    .content > .wrapper> a.button-blog-new:hover,
+    .content > .wrapper> a.button1-blog-new:hover {
+        background: #FABE10;
+    }
+    .content > .wrapper> a.button-blog-new,
+    .content > .wrapper> a.button1-blog-new {
+        padding: 17px 0px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    div.tickets>div.question5 {
+        width: 36.123456788%;
+    }
+    div.tickets>a.buy {
+        width: 150px;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/find-btn.png) -30px 0 no-repeat;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    #footer-top-menu {
+        z-index: 99999;
+    }
+    .footer-picture {
+        display: none;
+    }
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal,
+    .jcarousel-skin-tango1 .jcarousel-clip-horizontal,
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 806px) {
+    #parnters-plus-news {
+        width: 400px !important;
+    }
+    .top-menu ul li a {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 796px) {
+    .tickets {
+        height: 280px;
+    }
+    .tickets a.buy {
+        /*bottom: 5px;
+        height: 50px;*/
+    }
+    .tickets a.buy: hover {
+        bottom: auto;
+    }
+}
+
+@media screen and (max-width: 790px) {
+    .tickets a.buy {
+        width: 170px;
+        right: 10px;
+        bottom: inherit;
+        height: 45px;
+        box-shadow: none;
+    }
+    .menu li a:not(.active) {
+        border-bottom: none;
+        text-align: center;
+    }
+    .menu > ul {
+        margin: 0px;
+        padding: 0px;
+        height: auto;
+        width: auto;
+        border: none;
+    }
+    .menu > ul > li {
+        margin: 0px;
+        padding: 0px;
+        height: auto;
+        width: 16% !important;
+        border: none;
+        text-align: center;
+        border-right: 1px solid black;
+    }
+    .menu > ul > li:last-of-type {
+        border-right: none;
+    }
+    .menu > ul > li > a {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        border: none;
+        display: inline-block;
+        height: 38px;
+        padding-top: 5px !important;
+    }
+    .menu > ul > li > a.active {
+        margin: 0px;
+        padding: 0px;
+        height: auto;
+        width: 100%;
+        border: none;
+    }
+    /*MENU123456*/
+    
+    .main > .menu,
+    .main > .menu > ul,
+    .main > .menu > ul > li,
+    .main > .menu > ul > li > a {
+        margin: 0px !important;
+        padding: 0px !important;
+        float: none !important;
+        display: inline-block !important;
+        width: auto !important;
+        height: auto !important;
+        background: none !important;
+        border: none !important;
+        text-align: center !important;
+        vertical-align: middle !important;
+    }
+    .main > .menu {
+        width: 99.823456789% !important;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/menu-bg.jpg) 0 0 repeat !important;
+    }
+    .main > .menu > ul > li > a {
+        border-right: 1px solid gray !important;
+        height: 40px !important;
+        min-height: 40px !important;
+        display: table-cell !important;
+        font-size: 15px !important;
+        padding: 0px 5px !important;
+    }
+    .main > .menu > ul > li:hover {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/menu-color1.jpg) 0 0 repeat !important;
+    }
+    .menu > ul > li > a.active {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/menu-color.jpg) 0 0px repeat !important;
+    }
+}
+
+@media screen and (max-width: 772px) {
+    .main > .menu > ul > li > a {
+        padding: 0px !important;
+    }
+}
+
+@media screen and (max-width: 776px) {
+    .question1 input {
+        width: 150px;
+    }
+    .question2 > .styled-select {
+        width: 150px;
+    }
+    .question2 > .styled-select > select {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/select.png) 126px center no-repeat;
+        width: 166px;
+    }
+    .question5-name {
+        margin-right: 0px;
+    }
+    .question5 input {
+        width: 105px;
+        padding-left: 7px;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/calendar.jpg) 88px 5px no-repeat, url(http://aviagent.ru/catalog/view/theme/default/images/input-bg.jpg) 0 0 repeat-x;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .jcarousel-skin-tango1 .jcarousel-container-horizontal, .jcarousel-skin-tango1 .jcarousel-clip-horizontal, .jcarousel-skin-tango1 .jcarousel-container-horizontal {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 762px) {
+    .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
+        width: 210px !important;
+    }
+}
+
+@media screen and (max-width: 761px) {
+    .top-menu ul li {
+        padding-left: 8px;
+        margin-left: 8px;
+    }
+    .footer-phone-num {
+        width: auto;
+    }
+    .footer-callback-btn {
+        width: 165px;
+        border: 1px solid gray;
+    }
+}
+
+@media screen and (max-width: 756px) {
+    #parnters-plus-news {
+        width: 350px !important;
+    }
+}
+
+@media screen and (max-width: 752px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 650px;
+    }
+    .jcarousel-skin-tango .jcarousel-item,
+    .spec1,
+    .spec-price {
+        width: 210px;
+    }
+    .jcarousel-skin-tango .jcarousel-item-horizontal {
+        margin: 0px 4px;
+    }
+    .spec-name {
+        font-size: 14px;
+    }
+    .jcarousel-skin-tango .jcarousel-next-horizontal {
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 746px) {
+    div.blog-content>div#jd-zakaz {
+        height: 260px;
+    }
+}
+
+@media screen and (max-width: 731px) {
+    .tickets {
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 722px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 440px;
+    }
+}
+
+@media screen and (max-width: 716px) {
+    .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
+        width: 175px !important;
+        font-size: 25px !important
+    }
+}
+
+@media screen and (max-width: 706px) {
+    .main .box#news {
+        display: block !important;
+        width: 98.123456%;
+    }
+    .box#news .content {
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/content-bg.png) center 0 no-repeat;
+    }
+    #parnters-plus-news {
+        width: 500px !important;
+    }
+}
+
+@media screen and (max-width: 702px) {
+    .main > .menu > ul > li > a {
+        font-size: 14px !important;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    /*
+    .footer
+    {
+		background: #1C68BE;
+		padding: 0px;
+		height: auto;
+	}
+    .footer>.main,
+    .footer>.main>.copy,
+    .footer>.main>.copy>a,
+    .footer>.main>.footer-phone-num,
+    .footer>.main>.footer-callback-btn
+    {
+		height: auto;
+		padding: 0px;
+		margin: 0px;
+		float: none;
+		display: inline-block;
+	}
+    .footer>.main
+    {
+		padding: 30px 0px;
+	}*/
+}
+
+@media screen and (max-width: 670px) {
+    .top-menu ul li {
+        padding-left: 5px;
+        margin-left: 5px;
+    }
+    div.tickets>a.buy {
+        width: 95px;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/find-btn.png) -80px 0 no-repeat;
+    }
+}
+
+@media screen and (max-width: 665px) {
+    .partners.id2, .jcarousel-skin-tango1, .footer-list-absolute, .footer-logo, #column-left {
+        display: none;
+    }
+    #footer-top-menu {
+        margin-top: 10px !important;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .menu > ul > li > a {
+        font-size: 15px;
+    }
+    .main > .menu > ul > li > a {
+        font-size: 13px !important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    div.tickets>div.question5 {
+        width: 37.123457%;
+    }
+}
+
+@media screen and (max-width: 632px) {
+    div.form-bg>form#formget>div.tickets {
+        background: #1F73D3;
+        height: 350px;
+    }
+    div.form-bg>form#formget>div.tickets > a.buy {
+        /*bottom: 5px;*/
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .tickets > a.buy {
+        background: #F79A0F !important;
+        border: 1px solid #F79A0F;
+        color: white;
+        font-family: 'Roboto Condensed', sans-serif;
+        border-radius: 5px;
+        width: auto;
+        height: auto;
+        padding: 5px 5px;
+    }
+    .tickets > a.buy:before {
+        content: "НАЙТИ"
+    }
+    .tickets a.buy:hover {
+        box-shadow: none;
+        bottom: auto;
+        /*background: #FFAA0F !important;*/
+        
+        border: 1px solid #333333;
+    }
+    .main > .menu,
+    .main > .menu > ul,
+    .main > .menu > ul > li,
+    .main > .menu > ul > li > a,
+    .main > .menu > ul > li > a.active {
+        width: auto !important;
+        height: auto !important;
+        min-height: inherit !important;
+        border: none !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+        background: none !important;
+    }
+    .main > .menu > ul {
+        display: block !important;
+        /*border-radius: 0px 10px 10px 50px;*/
+        
+        border-radius: 10px !important;
+    }
+    .main > .menu > ul > li {
+        float: none !important;
+        background: none !important;
+        background: rgb(200, 200, 200) !important;
+        display: block !important;
+        margin-bottom: 2px !important;
+    }
+    .main > .menu > ul > li > a {
+        width: 250px !important;
+        display: inline-block !important;
+        font-size: 15px !important;
+        padding: 1px 0px !important;
+    }
+    .main > .menu > ul > li > a.active {
+        background: #F0920A !important;
+        width: 100% !important;
+    }
+    .main > .menu {
+        margin-top: 45px !important;
+        margin-bottom: 5px !important;
+    }
+    .top-menu ul li a {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    div.main>div.header>div.header-overlay>div.phone-ns {
+        margin-top: 90px;
+    }
+    div.main>div.header>div.header-overlay {
+        background: rgba(255, 255, 255, 0.0);
+    }
+    .tickets > .question1,
+    .tickets > .question2 {
+        float: none;
+        display: block;
+        width: 100% !important;
+        height: auto !important;
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-bottom: 15px !important;
+    }
+    .tickets > .question1 > p,
+    .tickets > .question2 > p {
+        float: none;
+        display: inline-block;
+        width: 10.123456789%;
+        height: auto !important;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .tickets > .question1 > input {
+        float: none;
+        display: inline-block;
+        width: 85.123456789% !important;
+        height: auto !important;
+        border-radius: 5px;
+        padding: 10px 0px;
+        padding-left: 10px;
+        background: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    .tickets > .question2 > .styled-select {
+        float: none;
+        display: inline-block;
+        width: 87.123456789% !important;
+        height: auto !important;
+        border-radius: 5px;
+        background: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    .tickets > .question2 > .styled-select > select {
+        width: 103.856789% !important;
+        height: auto !important;
+        font-size: 20px;
+        padding: 10px 0px;
+        padding-left: 10px;
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/select.png) 93.423456789% center no-repeat !important;
+    }
+    .tickets > .question2 > p {
+        top: -15px;
+        position: relative;
+    }
+    .tickets > .question5 {
+        float: none;
+        display: block;
+        width: 49.123456789% !important;
+        height: auto !important;
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-bottom: 15px !important;
+    }
+    .tickets > .question5 > #date1,
+    .tickets > .question5 > #datereturn {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        height: auto !important;
+        padding: 10px 0px;
+        padding-left: 10px;
+        border-radius: 5px;
+        /*font-size: 16px !important;*/
+        
+        background: url(http://aviagent.ru/catalog/view/theme/default/images/calendar.jpg) 90.123456% 45.123456% no-repeat, white !important;
+    }
+    div.tickets > a.buy {
+        position: relative;
+        margin-bottom: 20px;
+        display: inline-block;
+        left: 40.123456% !important;
+        top: 10px;
+    }
+    .tickets {
+        padding-top: 15px;
+        height: auto !important;
+        background: #1F73D3;
+    }
+}
+
+@media screen and (max-width: 626px) {
+    div.main>div.content>ul.nav>li.item-296>div>div>ymaps {
+        width: 98.123456% !important;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p>iframe {
+        /*height: 500px;*/
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .item-296.item1 {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 611px) {
+    .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
+        width: 175px !important;
+        font-size: 25px !important
+    }
+    .content > .wrapper> div > a > img {
+        display: none;
+    }
+    .content > .wrapper> a.button-blog-new,
+    .content > .wrapper> a.button1-blog-new {
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 584px) {
+    div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p.western, div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p.western>font>font>span {
+        width: auto !important;
+    }
+}
+
+@media screen and (max-width: 566px) {
+    div.blog-content>div#jd-zakaz {
+        height: 320px;
+        background: #217DE2;
+    }
+}
+
+@media screen and (max-width: 565px) {
+    .top-menu ul li {
+        padding-left: 1px;
+        margin-left: 1px;
+        border-left: 1px solid black;
+    }
+    .tickets {
+        height: 276px;
+    }
+    .tickets a.buy {
+        right: 3px;
+        bottom: 3px;
+        padding: 3px 9px;
+    }
+    .tickets a.buy:hover {
+        bottom: 3px;
+        border: 1px solid black;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    div.main>div.header>div.header-overlay>div.phone-ns {
+        /*margin-top: 137px !important;*/
+    }
+}
+
+@media screen and (max-width: 536px) {
+    div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p>iframe {
+        /*width: 100%;*/
+    }
+}
+
+@media screen and (max-width: 535px) {
+    .copy {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .tickets > .question3, .tickets > .question4 {
+        display: block !important;
+        width: 220px !important;
+        float: none !important;
+        text-align: left !important;
+    }
+    .tickets > .question3 > .question3-name > span,
+    .tickets > .question4 > .question4-name > span {
+        width: 145px !important;
+        text-align: left !important;
+    }
+    .tickets > .question5,
+    .tickets > .question5 {
+        display: block !important;
+        width: 220px !important;
+        text-align: right;
+    }
+    div.tickets > a.buy {
+        position: static !important;
+    }
+}
+
+@media screen and (max-width: 527px) {
+    div.blog-content>form#formget>div.tickets {
+        height: 350px;
+        background: #2175D5;
+    }
+}
+
+@media screen and (max-width: 522px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 315px;
+    }
+    .spec-name {
+        font-size: 13px;
+    }
+    .spec-price > div {
+        font-size: 17px;
+    }
+    #mycarousel > li,
+    #mycarousel > li > a,
+    #mycarousel > li > a > .spec1,
+    .spec-name,
+    .spec-price {
+        width: 150px;
+    }
+    #parnters-plus-news {
+        width: 475px !important;
+    }
+    .main .box#news {
+        display: block !important;
+        width: 97.123456%;
+    }
+}
+
+@media screen and (max-width: 515px) {
+    .header > .top-menu, .header > .top-menu > ul, .header > .top-menu > ul > li, .header > .top-menu > ul > li > a {
+        margin: 0px !important;
+        padding: 0px !important;
+        border: none !important;
+    }
+    .header > .top-menu {
+        text-align: center !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .header > .top-menu > ul {
+        height: auto;
+        text-align: center !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .header > .top-menu > ul > li {
+        float: none !important;
+        display: inline-block !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .header > .top-menu > ul > li > a {
+        height: auto !important;
+        padding: 2px 3px !important;
+        color: #4981CB;
+        text-decoration: underline;
+    }
+    .header > .top-menu > ul > li:hover {
+        color: #f5b609;
+    }
+    .header > .top-menu > ul > li> a:hover {
+        color: #f5b609;
+    }
+    .header > .top-menu > ul > li > a.c_active {
+        color: #f09900;
+    }
+}
+
+@media screen and (max-width: 512px) {
+    .tickets a.buy {}
+    .tickets a.buy:hover {
+        bottom: auto;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    div.blog-content>div#jd-zakaz {
+        height: 360px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .tickets > .question1, .tickets > .question2 {
+        /*text-align: left;*/
+    }
+    .tickets > .question1 > p,
+    .tickets > .question2 > p {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 498px) {
+    a.tickets-a1, a.tickets-a2 {
+        width: 45.723456% !important;
+    }
+}
+
+@media screen and (max-width: 495px) {
+    div#jd-zakaz > form#jd-form > div.punkts > div, div#jd-zakaz > form#jd-form > div.attributs > div.DepartureDate, div#jd-zakaz > form#jd-form > div.attributs > div.TimeIntervalString {
+        display: block !important;
+        width: 90.723456% !important;
+    }
+    div#jd-zakaz > form#jd-form > div.attributs > div.AdultQuantity,
+    div#jd-zakaz > form#jd-form > div.attributs > div.ChildQuantity,
+    div#jd-zakaz > form#jd-form > div.attributs > div.BabyQuantity {
+        width: 25.123456789% !important;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    #parnters-plus-news {
+        width: 375px !important;
+    }
+}
+
+@media screen and (max-width: 481px) {
+    .pic-new {
+        top: auto;
+        bottom: auto;
+        left: auto;
+        right: auto;
+        right: 0px;
+        top: 64px;
+        z-index: -9999;
+    }
+    .menu {
+        z-index: 999;
+    }
+}
+
+@media screen and (max-width: 476px) {
+    div.blog-content>div#jd-zakaz {
+        height: 390px;
+    }
+}
+
+@media screen and (max-width: 451px) {
+    a.tickets-a1, a.tickets-a2 {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 449px) {
+    .margintop5 {
+        margin-top: 45px;
+    }
+}
+
+@media screen and (max-width: 447px) {
+    .tickets {
+        background: #1F77D8;
+        height: 320px;
+    }
+    .buy {
+        top: auto !important;
+        bottom: 3px !important;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    div.form-bg>form#formget>div.tickets {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 438px) {
+    div.blog-content>form#formget>div.tickets {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 435px) {
+    .tickets {
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    body>div.main>div.header>div.header-overlay>div.phone-ns {
+        /*margin-top: 25px;*/
+    }
+    div.blog-content>form#formget>div.tickets {
+        height: 450px;
+    }
+    div.main>div.header>div.header-overlay>div.phone-ns {
+        margin-top: 90px !important;
+    }
+}
+
+@media screen and (max-width: 416px) {
+    div.form-bg>form#formget>div.tickets {
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .top-menu, .top-menu > ul, .top-menu > ul > li, .top-menu > ul > li > a {
+        margin: 0px !important;
+        padding: 0px !important;
+        border: none !important;
+    }
+    .top-menu {
+        text-align: center !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .top-menu > ul {
+        height: auto;
+        text-align: center !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .top-menu > ul > li {
+        float: none !important;
+        display: inline-block !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .top-menu > ul > li > a {
+        height: auto !important;
+        padding: 2px 3px !important;
+        color: #4981CB;
+        text-decoration: underline;
+    }
+    .top-menu > ul > li:hover {
+        color: #f5b609;
+    }
+    .top-menu > ul > li> a:hover {
+        color: #f5b609;
+    }
+    .top-menu > ul > li > a.c_active {
+        color: #f09900;
+    }
+    .footer {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .blog-heading_title-n-avia
+    {
+		display: block;
+	}
+    a.tickets-a1, a.tickets-a2 {
+		width: 46.923456% !important;
+    	float: none;
+    	height: 26px;
+    	margin-left: -4px;
+	}
+    
+    .tickets > .question2 > .styled-select > select {
+        width: 104.856789% !important;
+    }
+    
+    
+    div.main > div.header > div.header-overlay > div.pic-new
+    {
+		display: none !important;
+	}
+    
+    div.main > div.header > div.header-overlay > div.logo, div.main > div.header > div.header-overlay > div.phone-ns
+    {
+		margin: 0px !important;
+		padding: 0px !important;
+		display: inline-block !important;
+		text-align: center;
+		margin-top: 20px !important;
+		width: 48.123456% !important;
+	}
+    div.main > div.header > div.header-overlay > div.phone-ns
+    {
+		/*margin-top: 55px !important;*/
+		font-size: 20px !important;
+		margin: 0px !important;
+		padding: 0px !important;
+		margin-top: -20px !important;
+	}
+    div.main > div.menu
+    {
+		margin-top: 0px !important;
+		display: block !important;
+		margin-top: -10px !important;
+	}
+    div.main > div.header
+    {
+		height: auto !important;
+	}
+    div.main > div.header > div.header-overlay
+    {
+		height: auto !important;
+	}
+    div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns
+    {
+		width: 100% !important;
+	}
+    div.main > div.header > div.header-overlay > div.logo
+    {
+		
+	}
+    div.main > div.header > div.header-overlay > div.logo > img,
+    div.main > div.header > div.header-overlay > div.logo > a > img
+    {
+		width: 99% !important;
+	}
+
+	div.main > div#content > div.advantage-block
+    {
+		display: none !important;
+	}
+    div.main > div.box > div.h2, div.main > div.box > div.special
+    {
+		display: none !important;
+	}
+    div.main > div#news > div.h2
+    {
+		display: block !important;
+		padding-left: 10px;
+	}
+    
+    div.main > div#parnters-plus-news > div.content
+    {
+		min-height: 0px !important;
+		height: 54px !important;
+		display: block !important;
+		overflow: hidden !important;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+    div.main > div#parnters-plus-news > div.content > img
+    {
+		margin-top: -60px !important;
+	}
+    div.main > div.h2
+    {
+		padding-left: 10px;
+	}
+    div.footer-callback-btn
+    {
+		display: none !important;
+	}
+    
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records
+    {
+		margin-left: 5px !important;
+		margin-right: 5px !important;
+	}
+    
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-share_container
+    {
+		display: none !important;
+	}
+    
+    /*body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-comment_container > div.blog-comments,*/
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-comment_container > div.blog-viewed
+    {
+		display: none !important;
+	}
+    
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.record-filter > div.sort
+    {
+		margin-left: 0px !important;
+		margin-top: 5px;
+	}
+    
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5
+    {
+		margin-top: 50px;
+	}
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5 > div.results
+    {
+		margin-top: 5px;
+	}
+    
+    
+    .menu,
+    .menu > ul,
+    .menu > ul > li,
+    .menu > ul > li > a,
+    .menu > ul > li > a.active {
+        width: auto !important;
+        height: auto !important;
+        min-height: inherit !important;
+        border: none !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+        background: none !important;
+    }
+    .menu > ul {
+        display: block !important;
+        /*border-radius: 0px 10px 10px 50px;*/
+        
+        border-radius: 10px !important;
+    }
+    .menu > ul > li {
+        float: none !important;
+        background: none !important;
+        background: rgb(200, 200, 200) !important;
+        display: block !important;
+        margin-bottom: 2px !important;
+    }
+    .menu > ul > li > a {
+        width: 250px !important;
+        display: inline-block !important;
+        font-size: 15px !important;
+        padding: 1px 0px !important;
+    }
+    .menu > ul > li > a.active {
+        background: #F0920A !important;
+        width: 100% !important;
+    }
+    .menu {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+    }
+    
+    body > div.main > div.content > div.blog-content
+    {
+		padding-right: 10px !important;
+	}
+    
+    
+    
+}
+
+@media screen and (max-width: 390px) {
+    #parnters-plus-news {
+        width: 99.123456789% !important;
+    }
+    div.main>div.header>div.header-overlay>div.pic-new {
+        margin-top: 50px;
+    }
+    div.main>div.header>div.header-overlay>div.phone-ns {
+        /*margin-top: 140px !important;*/
+    }
+    div.main>div.menu {
+        /*margin-top: 95px !important;*/
+    }
+}
+
+@media screen and (max-width: 387px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 386px) {
+    div.blog-content>div#jd-zakaz {
+        height: 490px;
+    }
+}
+
+@media screen and (max-width: 381px) {
+    a.tickets-a1, a.tickets-a2 {
+        font-size: 14px;
+    }
+    
+    div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {
+    	font-size: 18px !important;
+	}
+    
+}
+
+@media screen and (max-width: 365px) {
+    div.blog-content>form#formget>div.tickets {
+        height: 525px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+	div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {
+	}
+}
+
+@media screen and (max-width: 350px) {
+    .tickets {
+        height: 440px;
+    }
+    body {
+        width: 334px !important;
+    }
+}
+/*
+@media screen and (max-width: 346px) {
+    .main .box#news {
+        width: 96.123456%;
+    }
+    .tickets {
+        height: 480px;
+    }
+}
+
+@media screen and (max-width: 345px) {
+    div.form-bg>form#formget>div.tickets {
+        height: 480px;
+    }
+}
+
+@media screen and (max-width: 344px) {
+    div.form-bg>form#formget>div.tickets {
+        height: 530px;
+    }
+}
+
+@media screen and (max-width: 322px) {
+    .jcarousel-skin-tango .jcarousel-clip-horizontal {
+        width: 240px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    body {
+        width: 304px !important;
+    }
+}*/
