@@ -1,6 +1,4 @@
-﻿.blog-heading_title-n-avia
-{
-
+﻿.blog-heading_title-n-avia {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 22px;
     color: #1a478f;
@@ -737,14 +735,14 @@
     }
 }
 
-@media screen and (max-width: 716px) {
+@media screen and (max-width: 720px) {
     .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
         width: 175px !important;
         font-size: 25px !important
     }
 }
 
-@media screen and (max-width: 706px) {
+@media screen and (max-width: 720px) {
     .main .box#news {
         display: block !important;
         width: 98.123456%;
@@ -757,39 +755,13 @@
     }
 }
 
-@media screen and (max-width: 702px) {
+@media screen and (max-width: 720px) {
     .main > .menu > ul > li > a {
         font-size: 14px !important;
     }
 }
 
-@media screen and (max-width: 700px) {
-    /*
-    .footer
-    {
-		background: #1C68BE;
-		padding: 0px;
-		height: auto;
-	}
-    .footer>.main,
-    .footer>.main>.copy,
-    .footer>.main>.copy>a,
-    .footer>.main>.footer-phone-num,
-    .footer>.main>.footer-callback-btn
-    {
-		height: auto;
-		padding: 0px;
-		margin: 0px;
-		float: none;
-		display: inline-block;
-	}
-    .footer>.main
-    {
-		padding: 30px 0px;
-	}*/
-}
-
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 720px) {
     .top-menu ul li {
         padding-left: 5px;
         margin-left: 5px;
@@ -800,7 +772,7 @@
     }
 }
 
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 720px) {
     .partners.id2, .jcarousel-skin-tango1, .footer-list-absolute, .footer-logo, #column-left {
         display: none;
     }
@@ -809,7 +781,7 @@
     }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 720px) {
     .menu > ul > li > a {
         font-size: 15px;
     }
@@ -818,13 +790,13 @@
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 720px) {
     div.tickets>div.question5 {
         width: 37.123457%;
     }
 }
 
-@media screen and (max-width: 632px) {
+@media screen and (max-width: 720px) {
     div.form-bg>form#formget>div.tickets {
         background: #1F73D3;
         height: 350px;
@@ -834,7 +806,7 @@
     }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 720px) {
     .tickets > a.buy {
         background: #F79A0F !important;
         border: 1px solid #F79A0F;
@@ -991,25 +963,25 @@
     }
 }
 
-@media screen and (max-width: 626px) {
+@media screen and (max-width: 720px) {
     div.main>div.content>ul.nav>li.item-296>div>div>ymaps {
         width: 98.123456% !important;
     }
 }
 
-@media screen and (max-width: 625px) {
+@media screen and (max-width: 720px) {
     div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p>iframe {
         /*height: 500px;*/
     }
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 720px) {
     .item-296.item1 {
         margin-top: 10px;
     }
 }
 
-@media screen and (max-width: 611px) {
+@media screen and (max-width: 720px) {
     .content > .wrapper> a.button-blog-new, .content > .wrapper> a.button1-blog-new, .content > .wrapper> div, .content > .wrapper> div > a, .content > .wrapper> div > a > img {
         width: 175px !important;
         font-size: 25px !important
@@ -1024,13 +996,13 @@
     }
 }
 
-@media screen and (max-width: 584px) {
+@media screen and (max-width: 720px) {
     div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p.western, div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p.western>font>font>span {
         width: auto !important;
     }
 }
 
-@media screen and (max-width: 566px) {
+@media screen and (max-width: 720px) {
     div.blog-content>div#jd-zakaz {
         height: 320px;
         background: #217DE2;
@@ -1057,25 +1029,25 @@
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 720px) {
     div.main>div.header>div.header-overlay>div.phone-ns {
         /*margin-top: 137px !important;*/
     }
 }
 
-@media screen and (max-width: 536px) {
+@media screen and (max-width: 720px) {
     div.main>div.content>div.blog-content>span.seocmspro_content>div.blog-info>div.blog-description>p>iframe {
         /*width: 100%;*/
     }
 }
 
-@media screen and (max-width: 535px) {
+@media screen and (max-width: 720px) {
     .copy {
         display: none;
     }
 }
 
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 720px) {
     .tickets > .question3, .tickets > .question4 {
         display: block !important;
         width: 220px !important;
@@ -1098,14 +1070,14 @@
     }
 }
 
-@media screen and (max-width: 527px) {
+@media screen and (max-width: 720px) {
     div.blog-content>form#formget>div.tickets {
         height: 350px;
         background: #2175D5;
     }
 }
 
-@media screen and (max-width: 522px) {
+@media screen and (max-width: 720px) {
     .jcarousel-skin-tango .jcarousel-clip-horizontal {
         width: 315px;
     }
@@ -1131,7 +1103,7 @@
     }
 }
 
-@media screen and (max-width: 515px) {
+@media screen and (max-width: 720px) {
     .header > .top-menu, .header > .top-menu > ul, .header > .top-menu > ul > li, .header > .top-menu > ul > li > a {
         margin: 0px !important;
         padding: 0px !important;
@@ -1171,20 +1143,20 @@
     }
 }
 
-@media screen and (max-width: 512px) {
+@media screen and (max-width: 720px) {
     .tickets a.buy {}
     .tickets a.buy:hover {
         bottom: auto;
     }
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 720px) {
     div.blog-content>div#jd-zakaz {
         height: 360px;
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 720px) {
     .tickets > .question1, .tickets > .question2 {
         /*text-align: left;*/
     }
@@ -1194,13 +1166,13 @@
     }
 }
 
-@media screen and (max-width: 498px) {
+@media screen and (max-width: 720px) {
     a.tickets-a1, a.tickets-a2 {
         width: 45.723456% !important;
     }
 }
 
-@media screen and (max-width: 495px) {
+@media screen and (max-width: 720px) {
     div#jd-zakaz > form#jd-form > div.punkts > div, div#jd-zakaz > form#jd-form > div.attributs > div.DepartureDate, div#jd-zakaz > form#jd-form > div.attributs > div.TimeIntervalString {
         display: block !important;
         width: 90.723456% !important;
@@ -1212,13 +1184,13 @@
     }
 }
 
-@media screen and (max-width: 490px) {
+@media screen and (max-width: 720px) {
     #parnters-plus-news {
         width: 375px !important;
     }
 }
 
-@media screen and (max-width: 481px) {
+@media screen and (max-width: 720px) {
     .pic-new {
         top: auto;
         bottom: auto;
@@ -1233,25 +1205,25 @@
     }
 }
 
-@media screen and (max-width: 476px) {
+@media screen and (max-width: 720px) {
     div.blog-content>div#jd-zakaz {
         height: 390px;
     }
 }
 
-@media screen and (max-width: 451px) {
+@media screen and (max-width: 720px) {
     a.tickets-a1, a.tickets-a2 {
         font-size: 15px;
     }
 }
 
-@media screen and (max-width: 449px) {
+@media screen and (max-width: 720px) {
     .margintop5 {
         margin-top: 45px;
     }
 }
 
-@media screen and (max-width: 447px) {
+@media screen and (max-width: 720px) {
     .tickets {
         background: #1F77D8;
         height: 320px;
@@ -1262,25 +1234,25 @@
     }
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 720px) {
     div.form-bg>form#formget>div.tickets {
         height: 400px;
     }
 }
 
-@media screen and (max-width: 438px) {
+@media screen and (max-width: 720px) {
     div.blog-content>form#formget>div.tickets {
         height: 400px;
     }
 }
 
-@media screen and (max-width: 435px) {
+@media screen and (max-width: 720px) {
     .tickets {
         height: 380px;
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 720px) {
     body>div.main>div.header>div.header-overlay>div.phone-ns {
         /*margin-top: 25px;*/
     }
@@ -1292,13 +1264,13 @@
     }
 }
 
-@media screen and (max-width: 416px) {
+@media screen and (max-width: 720px) {
     div.form-bg>form#formget>div.tickets {
         height: 450px;
     }
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 720px) {
     .top-menu, .top-menu > ul, .top-menu > ul > li, .top-menu > ul > li > a {
         margin: 0px !important;
         padding: 0px !important;
@@ -1341,142 +1313,109 @@
     }
 }
 
-@media screen and (max-width: 400px) {
-    .blog-heading_title-n-avia
-    {
-		display: block;
-	}
-    a.tickets-a1, a.tickets-a2 {
-		width: 46.923456% !important;
-    	float: none;
-    	height: 26px;
-    	margin-left: -4px;
-	}
-    
+@media screen and (max-width: 720px) {
+    .blog-heading_title-n-avia {
+        display: block;
+    }
+    a.tickets-a1,
+    a.tickets-a2 {
+        width: 46.923456% !important;
+        float: none;
+        height: 26px;
+        margin-left: -4px;
+    }
     .tickets > .question2 > .styled-select > select {
         width: 104.856789% !important;
     }
-    
-    
-    div.main > div.header > div.header-overlay > div.pic-new
-    {
-		display: none !important;
-	}
-    
-    div.main > div.header > div.header-overlay > div.logo, div.main > div.header > div.header-overlay > div.phone-ns
-    {
-		margin: 0px !important;
-		padding: 0px !important;
-		display: inline-block !important;
-		text-align: center;
-		margin-top: 20px !important;
-		width: 48.123456% !important;
-	}
-    div.main > div.header > div.header-overlay > div.phone-ns
-    {
-		/*margin-top: 55px !important;*/
-		font-size: 20px !important;
-		margin: 0px !important;
-		padding: 0px !important;
-		margin-top: -20px !important;
-	}
-    div.main > div.menu
-    {
-		margin-top: 0px !important;
-		display: block !important;
-		margin-top: -10px !important;
-	}
-    div.main > div.header
-    {
-		height: auto !important;
-	}
-    div.main > div.header > div.header-overlay
-    {
-		height: auto !important;
-	}
-    div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns
-    {
-		width: 100% !important;
-	}
-    div.main > div.header > div.header-overlay > div.logo
-    {
-		
-	}
+    div.main > div.header > div.header-overlay > div.pic-new {
+        display: none !important;
+    }
+    div.main > div.header > div.header-overlay > div.logo,
+    div.main > div.header > div.header-overlay > div.phone-ns {
+        margin: 0px !important;
+        padding: 0px !important;
+        display: inline-block !important;
+        text-align: center;
+        margin-top: 20px !important;
+        width: 48.123456% !important;
+    }
+    div.main > div.header > div.header-overlay > div.phone-ns {
+        /*margin-top: 55px !important;*/
+        
+        font-size: 20px !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        margin-top: -20px !important;
+    }
+    div.main > div.menu {
+        margin-top: 0px !important;
+        display: block !important;
+        margin-top: -10px !important;
+    }
+    div.main > div.header {
+        height: auto !important;
+    }
+    div.main > div.header > div.header-overlay {
+        height: auto !important;
+    }
+    div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {
+        width: 100% !important;
+    }
+    div.main > div.header > div.header-overlay > div.logo {}
     div.main > div.header > div.header-overlay > div.logo > img,
-    div.main > div.header > div.header-overlay > div.logo > a > img
-    {
-		width: 99% !important;
-	}
-
-	div.main > div#content > div.advantage-block
-    {
-		display: none !important;
-	}
-    div.main > div.box > div.h2, div.main > div.box > div.special
-    {
-		display: none !important;
-	}
-    div.main > div#news > div.h2
-    {
-		display: block !important;
-		padding-left: 10px;
-	}
-    
-    div.main > div#parnters-plus-news > div.content
-    {
-		min-height: 0px !important;
-		height: 54px !important;
-		display: block !important;
-		overflow: hidden !important;
-		margin: 0px !important;
-		padding: 0px !important;
-	}
-    div.main > div#parnters-plus-news > div.content > img
-    {
-		margin-top: -60px !important;
-	}
-    div.main > div.h2
-    {
-		padding-left: 10px;
-	}
-    div.footer-callback-btn
-    {
-		display: none !important;
-	}
-    
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records
-    {
-		margin-left: 5px !important;
-		margin-right: 5px !important;
-	}
-    
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-share_container
-    {
-		display: none !important;
-	}
-    
+    div.main > div.header > div.header-overlay > div.logo > a > img {
+        width: 99% !important;
+    }
+    div.main > div#content > div.advantage-block {
+        display: none !important;
+    }
+    div.main > div.box > div.h2,
+    div.main > div.box > div.special {
+        display: none !important;
+    }
+    div.main > div#news > div.h2 {
+        display: block !important;
+        padding-left: 10px;
+    }
+    div.main > div#parnters-plus-news > div.content {
+        min-height: 0px !important;
+        height: 54px !important;
+        display: block !important;
+        overflow: hidden !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    div.main > div#parnters-plus-news > div.content > img {
+        margin-top: -60px !important;
+    }
+    div.main > div.h2 {
+        padding-left: 10px;
+    }
+    div.footer-callback-btn {
+        display: none !important;
+    }
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records {
+        margin-left: 5px !important;
+        margin-right: 5px !important;
+    }
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-share_container {
+        display: none !important;
+    }
     /*body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-comment_container > div.blog-comments,*/
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-comment_container > div.blog-viewed
-    {
-		display: none !important;
-	}
     
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.record-filter > div.sort
-    {
-		margin-left: 0px !important;
-		margin-top: 5px;
-	}
-    
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5
-    {
-		margin-top: 50px;
-	}
-    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5 > div.results
-    {
-		margin-top: 5px;
-	}
-    
-    
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div > div.content-records > div.blog-date_container > div.blog-comment_container > div.blog-viewed {
+        display: none !important;
+    }
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.record-filter > div.sort {
+        margin-left: 0px !important;
+        margin-top: 5px;
+    }
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5 {
+        margin-top: 50px;
+    }
+    body > div.main > div.content > div.blog-content > span.seocmspro_content > div.margintop5 > div.results {
+        margin-top: 5px;
+    }
     .menu,
     .menu > ul,
     .menu > ul > li,
@@ -1518,14 +1457,9 @@
         margin-top: 5px !important;
         margin-bottom: 5px !important;
     }
-    
-    body > div.main > div.content > div.blog-content
-    {
-		padding-right: 10px !important;
-	}
-    
-    
-    
+    body > div.main > div.content > div.blog-content {
+        padding-right: 10px !important;
+    }
 }
 
 @media screen and (max-width: 390px) {
@@ -1559,11 +1493,9 @@
     a.tickets-a1, a.tickets-a2 {
         font-size: 14px;
     }
-    
     div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {
-    	font-size: 18px !important;
-	}
-    
+        font-size: 18px !important;
+    }
 }
 
 @media screen and (max-width: 365px) {
@@ -1573,8 +1505,7 @@
 }
 
 @media screen and (max-width: 360px) {
-	div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {
-	}
+    div.main > div.header > div.header-overlay > div.phone-ns > div#callback-ns {}
 }
 
 @media screen and (max-width: 350px) {
@@ -1585,36 +1516,3 @@
         width: 334px !important;
     }
 }
-/*
-@media screen and (max-width: 346px) {
-    .main .box#news {
-        width: 96.123456%;
-    }
-    .tickets {
-        height: 480px;
-    }
-}
-
-@media screen and (max-width: 345px) {
-    div.form-bg>form#formget>div.tickets {
-        height: 480px;
-    }
-}
-
-@media screen and (max-width: 344px) {
-    div.form-bg>form#formget>div.tickets {
-        height: 530px;
-    }
-}
-
-@media screen and (max-width: 322px) {
-    .jcarousel-skin-tango .jcarousel-clip-horizontal {
-        width: 240px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    body {
-        width: 304px !important;
-    }
-}*/
