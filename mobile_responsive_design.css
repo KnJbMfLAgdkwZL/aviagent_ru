@@ -1,4 +1,21 @@
-﻿.blog-heading_title-n-avia {
+﻿
+body > div.main > div.box > div.special
+{
+    display: none;
+}
+
+body > div.main > div.box > div.h2
+{
+	display: none;
+}
+
+body > div.main > div#news > div.h2
+{
+	display: block;
+}
+
+
+.blog-heading_title-n-avia {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 22px;
     color: #1a478f;
